@@ -18,5 +18,5 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 PRODUCT_DEVICE := o7prolte
 PRODUCT_NAME := omni_o7prolte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G600FY
+
 PRODUCT_MANUFACTURER := samsung
